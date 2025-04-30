@@ -2,7 +2,7 @@
 date = '2025-03-20T09:39:28-04:00'
 draft = false
 layout = 'landing_page'
-image = '/assets/images/ri_headshot.jpg'
+image = 'testtest/images/ri_headshot.jpg'
 +++
 I'm interested in investigating how **principles from social cognition inform how people interact with robots**.
 
