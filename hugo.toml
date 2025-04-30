@@ -55,8 +55,8 @@ title = 'Pat Callaghan'
   url = "/pages/research/"
   weight = 2
 
-[[menu.main]]
-  name = "Other"
-  # pageRef = "pages/other/"
-  url = "/pages/other/"
-  weight = 3
+# [[menu.main]]
+#   name = "Other"
+#   # pageRef = "pages/other/"
+#   url = "/pages/other/"
+#   weight = 3
