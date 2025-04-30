@@ -1,6 +1,5 @@
 +++
 draft = false
-layout = posts
 +++
 These days, I'm especially interested in figuring out how robot learners can help
 make people more **[efficacious](https://www.merriam-webster.com/dictionary/efficacious)**
