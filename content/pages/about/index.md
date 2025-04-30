@@ -1,6 +1,7 @@
 +++
-draft = true
+draft = false
 title = 'About'
+layout = posts
 +++
 I'm a PhD student in the [Robotics Institute](https://ri.cmu.edu/) at Carnegie Mellon University where
 I'm lucky to be advised by two stellar people: Professors [Henny Admoni]("https://www.hennyadmoni.com")
