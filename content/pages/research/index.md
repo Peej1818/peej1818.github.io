@@ -22,9 +22,9 @@ models.
 
 **Approach:**
 
-[Extended Abstract](/assets/docs/ToM2_Extended_Abstract_AAAI_25.pdf)
+[Extended Abstract](/docs/ToM2_Extended_Abstract_AAAI_25.pdf)
 
-{{< embed-pdf url="/assets/docs/ToM2_Extended_Abstract_AAAI_25.pdf" >}}
+{{< embed-pdf url="/docs/ToM2_Extended_Abstract_AAAI_25.pdf" >}}
 
 ---
 
