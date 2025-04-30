@@ -16,6 +16,8 @@ title = 'Pat Callaghan'
       author = "Patrick Callaghan"
       description = "Pat Callaghan's personal website."
       keywords = ["some", "keywords", "to", "describe", "this"]
+  [params.image]
+      url = "/assets/images/ri_headshot.jpg"
   [params.navigation]
       show_navigation = true
 
