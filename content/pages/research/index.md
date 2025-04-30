@@ -1,5 +1,6 @@
 +++
 draft = false
+layout = posts
 +++
 These days, I'm especially interested in figuring out how robot learners can help
 make people more **[efficacious](https://www.merriam-webster.com/dictionary/efficacious)**
@@ -23,8 +24,6 @@ models.
 **Approach:**
 
 [Extended Abstract](/docs/ToM2_Extended_Abstract_AAAI_25.pdf)
-
-{{< embed-pdf url="/docs/ToM2_Extended_Abstract_AAAI_25.pdf" >}}
 
 ---
 
