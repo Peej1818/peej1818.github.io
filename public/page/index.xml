@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Pat Callaghan</title>
+    <link>//localhost:1313/page/</link>
+    <description>Recent content in Pages on Pat Callaghan</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="//localhost:1313/page/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>//localhost:1313/page/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/page/research/</guid>
+      <description>&lt;p&gt;These days, I&amp;rsquo;m especially interested in figuring out how robot learners can help&#xA;make people more &lt;strong&gt;&lt;a href=&#34;https://www.merriam-webster.com/dictionary/efficacious&#34;&gt;efficacious&lt;/a&gt;&lt;/strong&gt;&#xA;teachers of skills and personal preferences. In particular, I am working on ways to:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;model misunderstandings&lt;/strong&gt; that learners and teachers have of each other, and&lt;/li&gt;&#xA;&lt;li&gt;incorporate such models into the robot&amp;rsquo;s &lt;strong&gt;reasoning and feedback generation processes&lt;/strong&gt;.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Ideally, my work will &lt;strong&gt;reduce cognitive demands&lt;/strong&gt; placed upon human&#xA;teachers &lt;strong&gt;without sacrificing the interpretability&lt;/strong&gt; of the robot&amp;rsquo;s internal&#xA;models.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>//localhost:1313/page/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/page/about/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m a PhD student in the &lt;a href=&#34;https://ri.cmu.edu/&#34;&gt;Robotics Institute&lt;/a&gt; at Carnegie Mellon University where&#xA;I&amp;rsquo;m lucky to be advised by two stellar people: Professors &lt;a href=&#34;%22https://www.hennyadmoni.com%22&#34;&gt;Henny Admoni&lt;/a&gt;&#xA;and &lt;a href=&#34;https://www.cs.cmu.edu/~reids/&#34;&gt;Reid Simmons&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Prior to becoming a PhD student, I was a Master&amp;rsquo;s student in the RI. During that time, I was happily&#xA;advised by Professors Admoni and &lt;a href=&#34;https://www.ri.cmu.edu/ri-faculty/oliver-kroemer/&#34;&gt;Oliver Kroemer&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Before enrolling at CMU, I worked on the navigation and planning software for&#xA;&lt;a href=&#34;https://labs.ri.cmu.edu/moonranger/&#34;&gt;MoonRanger&lt;/a&gt; under Professors Red Whittaker and David Wettergreen,&#xA;and I also worked on the &lt;a href=&#34;https://irislunarrover.space/&#34;&gt;Iris&lt;/a&gt; (originally&#xA;&lt;a href=&#34;https://tinyurl.com/28kdyznf&#34;&gt;CubeRover&lt;/a&gt;) project&amp;rsquo;s Systems Engineering team. Before robotics, I&#xA;taught 9th grade Humanities and coached boys&amp;rsquo; lacrosse and ice hockey at Culver Academies. I earned&#xA;a dual degree in English and Economics from the University of Virginia.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Other</title>
+      <link>//localhost:1313/page/other/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/page/other/</guid>
+      <description>&lt;h1 id=&#34;the-other-page&#34;&gt;The other page!&lt;/h1&gt;</description>
+    </item>
+  </channel>
+</rss>

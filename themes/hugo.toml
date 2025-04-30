@@ -1,0 +1,61 @@
+baseURL = 'https://peej1818.github.io/'
+languageCode = 'en-us'
+title = 'Pat Callaghan'
+
+[module]
+  [module.hugoVersion]
+    extended = true
+    min = "0.87.0"
+[params]
+  favicon = "/static/images/icon.png"
+  [params.head]
+      author = "Patrick Callaghan"
+      description = "Pat Callaghan's personal website."
+      keywords = ["some", "keywords", "to", "describe", "this"]
+  [params.navigation]
+      show_navigation = true
+
+  [params.footer]
+      show_footer = true
+  [params.typography]
+      title_font = "Monda"
+      body_font = "Monda"
+  [params.social]
+      [params.social.email]
+          name = "E-Mail"
+          class = "fas fa-envelope"
+          url = "https://mailhide.io/e/4Z0YZLMU"
+          weight = 1
+      [params.social.github]
+          name = "GitHub"
+          class = "fab fa-github"
+          url = "https://www.github.com/peej1818"
+          weight = 2
+      [params.social.google_scholar]
+          name = "Google Scholar"
+          class = "ai ai-google-scholar-square"
+          url = "https://scholar.google.com/citations?user=hBp7u9UAAAAJ"
+          weight = 3
+
+[[menu.main]]
+  name = "About"
+  # pageRef = "pages/about/"
+  url = "/pages/about/"
+  weight = 1
+
+[[menu.main]]
+  name = "Research"
+  # pageRef = "pages/research/"
+  url = "/pages/research/"
+  weight = 2
+
+[[menu.main]]
+  name = "Other"
+  # pageRef = "pages/other/"
+  url = "/pages/other/"
+  weight = 3
+
+[[menu.main]]
+  name = "Main"
+  url = "/"
+  weight = 4
