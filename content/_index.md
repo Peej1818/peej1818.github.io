@@ -1,6 +1,6 @@
 +++
 date = '2025-03-20T09:39:28-04:00'
-draft = true
+draft = false
 layout = 'landing_page'
 image = '/images/ri_headshot.jpg'
 +++
