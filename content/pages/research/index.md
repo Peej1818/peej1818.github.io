@@ -17,7 +17,8 @@ Ideally, my work will **reduce cognitive demands** placed upon human teachers
 
 *Second-Order Theory of Mind for Human Teachers and Robot Learners.*
 
-[Extended Abstract](/docs/ToM2_Extended_Abstract_AAAI_25.pdf)
+{{< embed-pdf url="./docs/ToM2_Extended_Abstract_AAAI_25.pdf" >}}
+
 
 ---
 
