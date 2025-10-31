@@ -1,9 +1,9 @@
 +++
 draft = false
 +++
-These days, I'm investigating ways robot learners can help people become
+These days, I investigate ways robot learners can help people become
 **[efficacious](https://www.merriam-webster.com/dictionary/efficacious)** teachers of
-skills and personal preferences. In particular, I am working on ways to:
+skills and personal preferences. In particular, I work on ways to:
 
   1. **model misunderstandings** that learners and teachers have of each other, and
   1. incorporate such models into the robot's **reasoning and feedback generation processes**.

@@ -2,7 +2,7 @@
 draft = false
 +++
 I'm a PhD student in the [Robotics Institute](https://ri.cmu.edu/) at Carnegie Mellon University where
-I'm lucky to be advised by two stellar people: Professors [Henny Admoni]("https://www.hennyadmoni.com")
+I'm lucky to be advised by Professors [Henny Admoni]("https://www.hennyadmoni.com")
 and [Reid Simmons](https://www.cs.cmu.edu/~reids/).
 
 Prior to becoming a PhD student, I was a Master's student in the RI. During that time, I was happily
